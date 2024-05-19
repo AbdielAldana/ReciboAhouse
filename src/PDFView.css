@@ -1,0 +1,10 @@
+.viewComponent {
+    width: 700px;
+}
+
+.viewPage {
+    height: 911.3px;
+    width: 700px;
+    /* margin-bottom: 2px; */
+    border: solid 1px red;
+}
